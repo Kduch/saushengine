@@ -1,0 +1,13 @@
+0.4.0 
+  - Fixed other_values bug
+  - added crawl-delay support
+0.3.2
+	- fixed breaking on reddit.com
+0.3.1
+  - fixed bug in disallows handling
+  - partially mocked out open-uri
+0.3.0
+  - added loggable dependency 
+0.2.0
+	- IF robot.txt 404s, assume allowed.
+  - Added CHANGELOG

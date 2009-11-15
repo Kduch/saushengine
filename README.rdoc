@@ -1,0 +1,13 @@
+== DESCRIPTION
+
+Ruby on Rails port of the simple search engine orginally written in Sinatra ruby framework by Sau Sheong Chang.
+For more info, check: http://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/
+
+= CHANGES
+
+- Code moved to Ruby on Rails framework
+- Spider uses Active Record ORM
+- Fixed proper indexing of cyrilic characters
+- Rescued Timeout errors in robots library
+
+
